@@ -1,6 +1,4 @@
-#
-
-Тестовое задание 1
+# Тестовое задание 1
 
 ## Задача
 
@@ -11,10 +9,11 @@
 - Node.JS, v10+
 - Yarn
 
-## Порядок установки
+## Порядок запуска
 
 ```sh
-git clone git@github.com:GarrySh/BLT-tests-1.git
+git clone https://github.com/GarrySh/BLT-tests-1.git
 cd BLT-tests-1
-make install
+yarn install
+yarn start
 ```
