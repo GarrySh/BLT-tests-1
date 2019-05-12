@@ -1,9 +1,5 @@
-plugins:
-  - jest
-
 env:
   node: true
-  jest: true
   browser: true
 
 parser: 'babel-eslint'
@@ -11,7 +7,6 @@ parser: 'babel-eslint'
 extends:
   - 'airbnb-base'
   - 'prettier'
-  - 'plugin:jest/recommended'
 
 rules:
   'no-console': 0
