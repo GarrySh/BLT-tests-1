@@ -1,5 +1,7 @@
 # Тестовое задание 1
 
+[![Build Status](https://travis-ci.org/GarrySh/BLT-tests-1.svg?branch=master)](https://travis-ci.org/GarrySh/BLT-tests-1)
+
 [Демо версия](https://garrysh.github.io/BLT-tests-1/)
 
 ## Задача
